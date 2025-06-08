@@ -1,0 +1,1 @@
+En este repositorio se encuentra el código final del proyecto y 3 imágenes dde prueba, para usarlo simplemente debemos descargar las imágenes y ponerlas como argumento de la función general. (La imagen naranjo1 es un ejemplo que sirve para mostrar el tipo de casos en los que las condiciones de luminosidad afectan al índice de aciertos de la solución)
